@@ -1,0 +1,11 @@
+.header-margin {
+    margin: 1rem;
+    text-align: center;
+}
+
+
+
+body {
+    background-color: white;
+    color: black;
+}

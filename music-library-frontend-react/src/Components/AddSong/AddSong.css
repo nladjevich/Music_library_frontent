@@ -1,0 +1,15 @@
+.form-spacing {
+    margin: 2rem;
+    justify-content: center;
+    text-align: center;
+}
+
+.group-margin {
+    margin: 1rem;
+}
+
+.form-border {
+    border: 1px;
+    border-color: black;
+    border-style: solid;
+}
